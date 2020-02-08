@@ -8,7 +8,7 @@ also prevent aggro through walls.
 ## How to Install
 
 * Pull the repo
-* Copy contents of the `navmeshes` folder to `darkstar/navmeshes`
+* Copy contents of the `navmeshes` folder to `topaz/navmeshes`
 * Restart the game server
 
-Navmeshes in `darkstar/navmeshes` are automatically loaded.
+Navmeshes in `topaz/navmeshes` are automatically loaded.
